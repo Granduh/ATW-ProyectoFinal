@@ -25,4 +25,4 @@ Dentro del archivo Documentación_Proyecto_Final.pdf, se encuentra a detalle el 
 
 - **Carlos Ramiro Yanez Yazan** - [ramiro3456_@outlook.com](mailto:ramiro3456_@outlook.com)
 - **Andrés Alejandro Toledo Rojas** - [andrestoledo587@gmail.com](mailto:andrestoledo587@gmail.com)
-- **Luis David Flores Pillajo** - [luis56flores@outlook.com](mailto:luis56flores@outlook.com)
+- **Luis David Flores Pillajo** - [f.luis220417@gmail.com](f.luis220417@gmail.com)
