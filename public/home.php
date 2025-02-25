@@ -9,12 +9,12 @@ $data = [
         [
             'nombre' => 'Andres Toledo',
             'rol' => 'Desarrollador Backend',
-            'id_espe' => 'A01234567'
+            'id_espe' => 'L00415853'
         ],
         [
             'nombre' => 'Carlos Yánez',
             'rol' => 'Desarrollador Frontend',
-            'id_espe' => 'B98765432'
+            'id_espe' => 'L00409509'
         ],
         [
             'nombre' => 'Luis Flores',
@@ -23,7 +23,7 @@ $data = [
         ]
     ],
     'descripcion' => 'Aplicación web para gestión de libros y autores desarrollada con:',
-    'tecnologias' => ['PHP MVC', 'MySQL', 'Bootstrap 5', 'Axios', 'HTACCESS']
+    'tecnologias' => ['PHP', 'MySQL', 'Bootstrap 5', 'Axios', 'HTACCESS']
 ];
 ?>
 
